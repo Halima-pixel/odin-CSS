@@ -1,0 +1,20 @@
+.one-p {
+    background-color: rgb(248, 178, 190);
+    font-family: verdana, dejaVu sans, sans-serif;
+    
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-unique {
+    background-color: #90ee90;
+    font-weight: bold;
+}
